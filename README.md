@@ -1,8 +1,28 @@
+<p align="center">
+	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/niemes/expoMod/main/expoMod/Assets.xcassets/AppIcon.appiconset/icon_512x512-1.png?raw=true">
+</p>
+<p align="center">
+	<a href="https://github.com/niemes/expomod/releases/latest">
+ 		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
+	</a>
+	<a href="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
+ 		<img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
+	</a>
+	<a href="https://img.shields.io/badge/requirements-macOS High Sierra+-ff69b4.svg">
+ 		<img src="https://img.shields.io/badge/requirements-macOS High Sierra+-ff69b4.svg" alt="systemrequirements">
+	</a>
+</p>
+
 # ExpoMod
 
-Expo is a small application tool for quickly setting up your computer for presentations / exhibitions. Or simply having useful shortcut to not being distract and keep awake your computer.
+ExpoMod is a small application tool that lets you quickly setting up your computer for presentations / exhibitions. Or simply having useful shortcut to not being distract and keep awake your computer.
 
 ## Description
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/niemes/expoMod/main/expoMod_preview.gif" />
+</p>
+
 ### Features : Activate / Deactivate :
 
 - System Update. (need user password)
