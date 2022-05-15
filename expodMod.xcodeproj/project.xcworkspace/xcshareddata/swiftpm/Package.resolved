@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "caffeinekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jrr6/CaffeineKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a92b664343adb16ca6dabc20b20665c1edc4fe41"
+      }
+    },
+    {
+      "identity" : "launchatlogin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/LaunchAtLogin",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e8171b3e38a2816f579f58f3dac1522aa39efe41"
+      }
+    },
+    {
+      "identity" : "swift-commands",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/qiuzhifei/swift-commands",
+      "state" : {
+        "revision" : "0883a0383038c41b398945b2e6fd233baaacc394",
+        "version" : "0.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
