@@ -44,7 +44,7 @@ struct ContentView: View {
         Options(
             id: 2,
             name: "SystemeUpdate",
-            nLabel: "Desactivate Systeme Update",
+            nLabel: "Deactivate Systeme Update",
             isOn: SystemeUpdate.isEnabled
         ),
         Options(
